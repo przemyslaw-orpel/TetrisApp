@@ -1,0 +1,8 @@
+﻿  TetrisApp.cpp
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(16): error C2374: "field": zmiana definicji; wielokrotna inicjalizacja
+  d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(15): note: zobacz deklarację „field”
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(130): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(186): warning C4305: "=": obcięcie z "double" do "float"
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(210): warning C4305: "=": obcięcie z "double" do "float"
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(223): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(230): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych

@@ -1,0 +1,7 @@
+﻿  TetrisApp.cpp
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(140): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(196): warning C4305: "=": obcięcie z "double" do "float"
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(220): warning C4305: "=": obcięcie z "double" do "float"
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(235): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\users\przemyslaw.orpel\desktop\cpp\tetrisapp\tetrisapp\tetrisapp.cpp(243): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  TetrisApp.vcxproj -> D:\Users\Przemyslaw.Orpel\Desktop\Cpp\TetrisApp\x64\Debug\TetrisApp.exe
